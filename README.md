@@ -1,5 +1,5 @@
 # EasyGIS
-GIS functions using KNIME
+GIS functions using KNIME:
 
 1) What is the geodesic distance between two features?
 
@@ -18,3 +18,9 @@ GIS functions using KNIME
 - Is the point completely within the polygon (not including features on the boundary) -- “completely contain within”
 - Is the point within the polygon (including features on the boundary) -- “contain within”
 - Is the point only touching the boundary (so neither in or out) -- Clementini
+
+Project contains:
+
+1) EasyGIS KNIME Node: implements the GIS functions
+
+2) EasyGIS KNIME Workflow: integrates and demonstrates usage of EasyGIS Node
