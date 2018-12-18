@@ -21,6 +21,6 @@ GIS functions using KNIME:
 
 Project contains:
 
-1) EasyGIS KNIME Node: implements the GIS functions
+KNIME Workflow containing the KNIME Node called EasyGIS.
 
-2) EasyGIS KNIME Workflow: integrates and demonstrates usage of EasyGIS Node
+EasyGIS Node implements the GIS functions in Python.
